@@ -1,0 +1,9 @@
+P {
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+}
+p strong{
+    font-family: impact;
+    font-size: 105%;
+}
